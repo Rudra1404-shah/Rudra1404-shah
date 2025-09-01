@@ -1,5 +1,5 @@
 ## Hi there 👋
-<!--Hi, I’m Rudra Shah 👋
+Hi, I’m Rudra Shah 👋
 Early-career data scientist and ML engineer focusing on applied deep learning, NLP, and end-to-end MLOps—building reproducible systems and learning in public.
 
 Quick links
