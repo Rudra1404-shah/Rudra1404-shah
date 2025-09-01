@@ -5,7 +5,7 @@ Early-career data scientist and ML engineer focusing on applied deep learning, N
 Quick links
 📧 Email: shahrudra1404@gmail.com  - 📍 Ahmedabad, Gujarat
 
-🔗 LinkedIn: rudra-shah14 - 💻 GitHub: Rudra1404-shah
+🔗 LinkedIn: rudra-shah14 
 
 What I do
 Build end-to-end ML apps: from data prep and modeling to deployment, CI/CD, and monitoring.
