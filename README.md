@@ -7,14 +7,9 @@ Quick links
 
 🔗 LinkedIn: rudra-shah14 
 
-What I do
-Build end-to-end ML apps: from data prep and modeling to deployment, CI/CD, and monitoring.
-
-Apply transfer learning for computer vision and embeddings/vector search for recommendations.
-
-Emphasize reproducibility with DVC, modular project structure, and GitHub Actions.
 
 Skills
+
 Languages: Python, SQL, Java, HTML, CSS, JavaScript.
 
 ML & Data: Machine Learning, NLP, Data Analysis, Data Visualization, Data Structures, Problem Solving.
@@ -23,4 +18,4 @@ Libraries: TensorFlow, scikit-learn, spaCy, Transformers, Pandas, NumPy, NLTK, M
 
 Tools: Git, GitHub, VS Code, Jupyter Notebook, PostgreSQL, Hugging Face, DVC, LangChain, Chroma
 
--->
+
